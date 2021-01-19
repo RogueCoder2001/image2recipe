@@ -1,0 +1,1 @@
+Can use 12hour model for the output notebook if you dont want to kill your computer using the first notebook
