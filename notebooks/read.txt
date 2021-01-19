@@ -1,1 +1,4 @@
 Can use 12hour model for the output notebook if you dont want to kill your computer using the first notebook
+- edit: lol file too large. 
+Here is a link to the model you can pull it from there, sorry for the inconvenience
+https://drive.google.com/file/d/1uT9nj5rxIW2kfQh4pNOZlkO0l6PXV6Vq/view?usp=sharing 
